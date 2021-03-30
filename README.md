@@ -2,7 +2,7 @@
 
 # 介绍
 
-这是一个Vue3.0组件库,主要用来熟悉Vue3.x的composition API,以及提升自己组件化开发能力
+打造一个自己的Vue3.0组件库,熟悉Vue3.x的composition API,提升自己组件化开发能力
 
 # 使用方法
 
